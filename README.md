@@ -16,4 +16,4 @@ I applied these frameworks to real-world challenges within the sports technology
 ---
 
 ![UC Berkeley Product Management Studio Certificate](images/KV_Berkeley_Product_Management_Studio_Certificate.jpg)
-*UC Berkeley Professional Certificate: Product Management Studio*
+*UC Berkeley Product Management Studio Certificate*
